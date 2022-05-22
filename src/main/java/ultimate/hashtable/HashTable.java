@@ -1,4 +1,4 @@
-package javaultimate.hashtable;
+package ultimate.hashtable;
 
 import org.jetbrains.annotations.NotNull;
 

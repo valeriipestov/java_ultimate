@@ -1,7 +1,7 @@
-package javaultimate.hashtable;
+package ultimate.hashtable;
 
 
-import javaultimate.utils.data.Accounts;
+import ultimate.utils.data.Accounts;
 
 import java.time.LocalDate;
 

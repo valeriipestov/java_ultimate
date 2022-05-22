@@ -1,4 +1,4 @@
-package javaultimate.linkedlist;
+package ultimate.linkedlist;
 
 import lombok.Data;
 

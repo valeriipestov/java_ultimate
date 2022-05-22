@@ -1,7 +1,7 @@
-package javaultimate.reflection;
+package ultimate.reflection;
 
-import javaultimate.utils.data.Accounts;
-import javaultimate.utils.model.Account;
+import ultimate.utils.data.Accounts;
+import ultimate.utils.model.Account;
 
 import java.util.Comparator;
 

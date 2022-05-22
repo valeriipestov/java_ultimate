@@ -1,4 +1,4 @@
-package javaultimate.hashtable;
+package ultimate.hashtable;
 
 public class Node<K, V> {
     K key;

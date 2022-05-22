@@ -1,4 +1,4 @@
-package javaultimate.linkedlist;
+package ultimate.linkedlist;
 
 import java.util.Stack;
 
@@ -44,7 +44,7 @@ public class ReversedLinkedList {
     }
 
     /**
-     * Prints a list in a reserved order using a {@link java.util.Stack} instance. Please note that it should not change
+     * Prints a list in a reserved order using a {@link Stack} instance. Please note that it should not change
      * the list, just print its elements.
      * <p>
      * Imagine you have a list of elements 4,3,9,1 and the current head is 4. Then the outcome should be the following:

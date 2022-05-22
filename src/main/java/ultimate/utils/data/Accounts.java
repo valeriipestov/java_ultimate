@@ -1,10 +1,10 @@
-package javaultimate.utils.data;
+package ultimate.utils.data;
 
 
 import com.devskiller.jfairy.Fairy;
 import com.devskiller.jfairy.producer.person.Person;
-import javaultimate.utils.model.Account;
-import javaultimate.utils.model.Sex;
+import ultimate.utils.model.Account;
+import ultimate.utils.model.Sex;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

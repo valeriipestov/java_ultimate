@@ -1,4 +1,4 @@
-package javaultimate.reflection;
+package ultimate.reflection;
 
 import lombok.SneakyThrows;
 import org.apache.commons.lang3.StringUtils;

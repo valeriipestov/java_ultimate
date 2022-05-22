@@ -1,4 +1,4 @@
-package javaultimate.utils.model;
+package ultimate.utils.model;
 
 
 import lombok.*;
